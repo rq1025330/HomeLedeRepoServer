@@ -1,0 +1,7 @@
+HomeLede 随版本会携带约400款软件包
+
+通过软件服务器提供全自动软件安装，
+
+私有软件服务器使用方法：
+
+https://github.com/xiaoqingfengATGH/HomeLede/wiki/HomeLede-%E5%BC%80%E7%AE%B1-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6-%E9%80%9A%E8%BF%87%E7%A7%81%E6%9C%89%E8%BD%AF%E4%BB%B6%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8

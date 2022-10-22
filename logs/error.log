@@ -1,0 +1,237 @@
+[Fri Aug 14 09:25:25.658603 2020] [mpm_winnt:notice] [pid 6524:tid 628] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 09:25:25.659602 2020] [mpm_winnt:notice] [pid 6524:tid 628] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 09:25:25.659602 2020] [core:notice] [pid 6524:tid 628] AH00094: Command line: 'httpd -d C:/Users/yang.yu/DevPortal/httpd-2.4.46-o111g-x86-vc15/Apache24'
+[Fri Aug 14 09:25:25.662575 2020] [mpm_winnt:notice] [pid 6524:tid 628] AH00418: Parent: Created child process 12720
+Apache server interrupted...
+020] [mpm_winnt:notice] [pid 12720:tid 1432] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 10:18:32.150560 2020] [mpm_winnt:notice] [pid 6524:tid 628] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 10:18:34.153425 2020] [mpm_winnt:notice] [pid 12720:tid 1432] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 10:18:34.192059 2020] [mpm_winnt:notice] [pid 6524:tid 628] AH00430: Parent: Child process 12720 exited successfully.
+[Fri Aug 14 10:18:40.972094 2020] [mpm_winnt:notice] [pid 13600:tid 548] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 10:18:40.973096 2020] [mpm_winnt:notice] [pid 13600:tid 548] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 10:18:40.973096 2020] [core:notice] [pid 13600:tid 548] AH00094: Command line: 'httpd -d C:/Users/yang.yu/DevPortal/httpd-2.4.46-o111g-x86-vc15/Apache24'
+[Fri Aug 14 10:18:40.975592 2020] [mpm_winnt:notice] [pid 13600:tid 548] AH00418: Parent: Created child process 15060
+Apache server interrupted...
+020] [mpm_winnt:notice] [pid 15060:tid 1424] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 10:24:03.419945 2020] [mpm_winnt:notice] [pid 13600:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 10:24:05.420861 2020] [mpm_winnt:notice] [pid 15060:tid 1424] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 10:24:05.459445 2020] [mpm_winnt:notice] [pid 13600:tid 548] AH00430: Parent: Child process 15060 exited successfully.
+[Fri Aug 14 10:24:09.021568 2020] [mpm_winnt:notice] [pid 5140:tid 636] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 10:24:09.022569 2020] [mpm_winnt:notice] [pid 5140:tid 636] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 10:24:09.022569 2020] [core:notice] [pid 5140:tid 636] AH00094: Command line: 'httpd -d C:/Users/yang.yu/DevPortal/httpd-2.4.46-o111g-x86-vc15/Apache24'
+[Fri Aug 14 10:24:09.025567 2020] [mpm_winnt:notice] [pid 5140:tid 636] AH00418: Parent: Created child process 13992
+Apache server interrupted...
+020] [mpm_winnt:notice] [pid 13992:tid 1428] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 13:23:07.865445 2020] [mpm_winnt:notice] [pid 5140:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 13:23:09.867390 2020] [mpm_winnt:notice] [pid 13992:tid 1428] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 13:23:09.984685 2020] [mpm_winnt:notice] [pid 5140:tid 636] AH00430: Parent: Child process 13992 exited successfully.
+[Fri Aug 14 13:50:33.093984 2020] [ssl:warn] [pid 16348:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 13:50:33.095979 2020] [mpm_winnt:notice] [pid 16348:tid 544] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 13:50:33.095979 2020] [mpm_winnt:notice] [pid 16348:tid 544] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 13:50:33.095979 2020] [core:notice] [pid 16348:tid 544] AH00094: Command line: 'D:\\Router\\RepoExpr\\\xe8\xbd\xaf\xe4\xbb\xb6\xe5\x8c\x85\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/\xe8\xbd\xaf\xe4\xbb\xb6\xe5\x8c\x85/HomeLedeRepoServer'
+[Fri Aug 14 13:50:33.097974 2020] [mpm_winnt:notice] [pid 16348:tid 544] AH00418: Parent: Created child process 18072
+Apache server shutdown initiated...
+sl:warn] [pid 18072:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 13:50:33.731279 2020] [mpm_winnt:notice] [pid 18072:tid 540] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 19:26:10.113413 2020] [mpm_winnt:notice] [pid 16348:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 19:26:12.127045 2020] [mpm_winnt:notice] [pid 18072:tid 540] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 19:26:12.151978 2020] [mpm_winnt:notice] [pid 16348:tid 544] AH00430: Parent: Child process 18072 exited successfully.
+[Fri Aug 14 22:45:10.805426 2020] [ssl:warn] [pid 2372:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:45:10.807422 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 22:45:10.807422 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 22:45:10.807422 2020] [core:notice] [pid 2372:tid 524] AH00094: Command line: 'httpd -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Fri Aug 14 22:45:10.809416 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00418: Parent: Created child process 10848
+Apache server interrupted...
+020] [ssl:warn] [pid 10848:tid 232] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:45:11.452213 2020] [mpm_winnt:notice] [pid 10848:tid 232] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 22:45:25.690470 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 22:45:27.703212 2020] [mpm_winnt:notice] [pid 10848:tid 232] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 22:45:27.752075 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00430: Parent: Child process 10848 exited successfully.
+[Fri Aug 14 22:51:20.988537 2020] [ssl:warn] [pid 14544:tid 548] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:51:20.989534 2020] [mpm_winnt:notice] [pid 14544:tid 548] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 22:51:20.989534 2020] [mpm_winnt:notice] [pid 14544:tid 548] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 22:51:20.989534 2020] [core:notice] [pid 14544:tid 548] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Fri Aug 14 22:51:20.991529 2020] [mpm_winnt:notice] [pid 14544:tid 548] AH00418: Parent: Created child process 14784
+Apache server shutdown initiated...
+sl:warn] [pid 14784:tid 528] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:51:21.644360 2020] [mpm_winnt:notice] [pid 14784:tid 528] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 22:51:24.064059 2020] [mpm_winnt:notice] [pid 14544:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 22:51:26.090772 2020] [mpm_winnt:notice] [pid 14784:tid 528] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 22:51:26.148616 2020] [mpm_winnt:notice] [pid 14544:tid 548] AH00430: Parent: Child process 14784 exited successfully.
+[Fri Aug 14 22:57:04.160673 2020] [ssl:warn] [pid 468:tid 552] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:57:04.162668 2020] [mpm_winnt:notice] [pid 468:tid 552] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 22:57:04.162668 2020] [mpm_winnt:notice] [pid 468:tid 552] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 22:57:04.162668 2020] [core:notice] [pid 468:tid 552] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Fri Aug 14 22:57:04.164663 2020] [mpm_winnt:notice] [pid 468:tid 552] AH00418: Parent: Created child process 2372
+Apache server interrupted...
+020] [ssl:warn] [pid 2372:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:57:04.857842 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 22:57:13.020677 2020] [mpm_winnt:notice] [pid 468:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 22:57:15.033988 2020] [mpm_winnt:notice] [pid 2372:tid 524] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 22:57:15.092829 2020] [mpm_winnt:notice] [pid 468:tid 552] AH00430: Parent: Child process 2372 exited successfully.
+[Fri Aug 14 22:59:11.906510 2020] [ssl:warn] [pid 13232:tid 560] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:59:11.908506 2020] [mpm_winnt:notice] [pid 13232:tid 560] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 22:59:11.908506 2020] [mpm_winnt:notice] [pid 13232:tid 560] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 22:59:11.908506 2020] [core:notice] [pid 13232:tid 560] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Fri Aug 14 22:59:11.910500 2020] [mpm_winnt:notice] [pid 13232:tid 560] AH00418: Parent: Created child process 9876
+Apache server interrupted...
+020] [ssl:warn] [pid 9876:tid 456] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:59:12.592235 2020] [mpm_winnt:notice] [pid 9876:tid 456] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 22:59:20.489761 2020] [mpm_winnt:notice] [pid 13232:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 22:59:22.503594 2020] [mpm_winnt:notice] [pid 9876:tid 456] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 22:59:22.546476 2020] [mpm_winnt:notice] [pid 13232:tid 560] AH00430: Parent: Child process 9876 exited successfully.
+[Fri Aug 14 22:59:27.589880 2020] [ssl:warn] [pid 17716:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:59:27.591875 2020] [mpm_winnt:notice] [pid 17716:tid 540] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 22:59:27.591875 2020] [mpm_winnt:notice] [pid 17716:tid 540] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 22:59:27.591875 2020] [core:notice] [pid 17716:tid 540] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Fri Aug 14 22:59:27.593870 2020] [mpm_winnt:notice] [pid 17716:tid 540] AH00418: Parent: Created child process 16448
+Apache server interrupted...
+020] [ssl:warn] [pid 16448:tid 560] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 22:59:28.243660 2020] [mpm_winnt:notice] [pid 16448:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 22:59:33.643594 2020] [mpm_winnt:notice] [pid 17716:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 22:59:35.674712 2020] [mpm_winnt:notice] [pid 16448:tid 560] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 22:59:35.734553 2020] [mpm_winnt:notice] [pid 17716:tid 540] AH00430: Parent: Child process 16448 exited successfully.
+[Fri Aug 14 23:03:44.301168 2020] [ssl:warn] [pid 3820:tid 232] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 23:03:44.303162 2020] [mpm_winnt:notice] [pid 3820:tid 232] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Fri Aug 14 23:03:44.303162 2020] [mpm_winnt:notice] [pid 3820:tid 232] AH00456: Server built: Aug  1 2020 13:08:46
+[Fri Aug 14 23:03:44.303162 2020] [core:notice] [pid 3820:tid 232] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Fri Aug 14 23:03:44.305157 2020] [mpm_winnt:notice] [pid 3820:tid 232] AH00418: Parent: Created child process 12364
+Apache server interrupted...
+020] [ssl:warn] [pid 12364:tid 532] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Aug 14 23:03:44.971376 2020] [mpm_winnt:notice] [pid 12364:tid 532] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 23:10:59.442688 2020] [mpm_winnt:notice] [pid 3820:tid 232] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 23:11:01.454391 2020] [mpm_winnt:notice] [pid 12364:tid 532] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 23:11:01.504255 2020] [mpm_winnt:notice] [pid 3820:tid 232] AH00430: Parent: Child process 12364 exited successfully.
+[Sat Aug 15 11:11:49.531667 2020] [ssl:warn] [pid 19160:tid 552] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 11:11:49.533661 2020] [mpm_winnt:notice] [pid 19160:tid 552] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 11:11:49.533661 2020] [mpm_winnt:notice] [pid 19160:tid 552] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 11:11:49.533661 2020] [core:notice] [pid 19160:tid 552] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 11:11:49.536653 2020] [mpm_winnt:notice] [pid 19160:tid 552] AH00418: Parent: Created child process 19668
+Apache server interrupted...
+020] [ssl:warn] [pid 19668:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 11:11:50.213841 2020] [mpm_winnt:notice] [pid 19668:tid 576] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 12:07:45.784426 2020] [mpm_winnt:notice] [pid 19160:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 12:07:47.790192 2020] [mpm_winnt:notice] [pid 19668:tid 576] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 12:07:47.825100 2020] [mpm_winnt:notice] [pid 19160:tid 552] AH00430: Parent: Child process 19668 exited successfully.
+[Sat Aug 15 14:12:22.829347 2020] [ssl:warn] [pid 20216:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:12:22.831341 2020] [mpm_winnt:notice] [pid 20216:tid 544] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 14:12:22.831341 2020] [mpm_winnt:notice] [pid 20216:tid 544] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 14:12:22.831341 2020] [core:notice] [pid 20216:tid 544] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 14:12:22.833336 2020] [mpm_winnt:notice] [pid 20216:tid 544] AH00418: Parent: Created child process 21988
+Apache server interrupted...
+020] [ssl:warn] [pid 21988:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:12:23.547447 2020] [mpm_winnt:notice] [pid 21988:tid 544] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 14:12:26.524624 2020] [mpm_winnt:notice] [pid 20216:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 14:12:28.529330 2020] [mpm_winnt:notice] [pid 21988:tid 544] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 14:12:28.583185 2020] [mpm_winnt:notice] [pid 20216:tid 544] AH00430: Parent: Child process 21988 exited successfully.
+[Sat Aug 15 14:15:54.136050 2020] [ssl:warn] [pid 20556:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:15:54.138044 2020] [mpm_winnt:notice] [pid 20556:tid 544] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 14:15:54.138044 2020] [mpm_winnt:notice] [pid 20556:tid 544] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 14:15:54.138044 2020] [core:notice] [pid 20556:tid 544] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 14:15:54.140039 2020] [mpm_winnt:notice] [pid 20556:tid 544] AH00418: Parent: Created child process 19780
+Apache server interrupted...
+020] [ssl:warn] [pid 19780:tid 536] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:15:54.787307 2020] [mpm_winnt:notice] [pid 19780:tid 536] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 14:15:55.202261 2020] [mpm_winnt:notice] [pid 20556:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 14:15:57.205903 2020] [mpm_winnt:notice] [pid 19780:tid 536] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 14:15:57.263748 2020] [mpm_winnt:notice] [pid 20556:tid 544] AH00430: Parent: Child process 19780 exited successfully.
+[Sat Aug 15 14:16:01.082643 2020] [ssl:warn] [pid 5424:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:16:01.083641 2020] [mpm_winnt:notice] [pid 5424:tid 544] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 14:16:01.083641 2020] [mpm_winnt:notice] [pid 5424:tid 544] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 14:16:01.083641 2020] [core:notice] [pid 5424:tid 544] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 14:16:01.085635 2020] [mpm_winnt:notice] [pid 5424:tid 544] AH00418: Parent: Created child process 22296
+Apache server interrupted...
+[Sat Aug 15 14:16:01.927384 2020] [ssl:warn] [pid 22296:tid 536] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:16:01.932370 2020] [mpm_winnt:notice] [pid 5424:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 14:16:01.934365 2020] [mpm_winnt:notice] [pid 22296:tid 536] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 14:16:01.935362 2020] [mpm_winnt:error] [pid 22296:tid 1884] (OS 10038)在一个非套接字上尝试了一个操作。  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sat Aug 15 14:16:03.940069 2020] [mpm_winnt:notice] [pid 22296:tid 536] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 14:16:03.977963 2020] [mpm_winnt:notice] [pid 5424:tid 544] AH00430: Parent: Child process 22296 exited successfully.
+[Sat Aug 15 14:31:19.078660 2020] [ssl:warn] [pid 9268:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:31:19.080654 2020] [mpm_winnt:notice] [pid 9268:tid 576] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 14:31:19.080654 2020] [mpm_winnt:notice] [pid 9268:tid 576] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 14:31:19.080654 2020] [core:notice] [pid 9268:tid 576] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 14:31:19.082649 2020] [mpm_winnt:notice] [pid 9268:tid 576] AH00418: Parent: Created child process 22356
+Apache server interrupted...
+020] [ssl:warn] [pid 22356:tid 548] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:31:19.744891 2020] [mpm_winnt:notice] [pid 22356:tid 548] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 14:31:20.578684 2020] [mpm_winnt:notice] [pid 9268:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 14:31:22.582514 2020] [mpm_winnt:notice] [pid 22356:tid 548] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 14:31:22.638363 2020] [mpm_winnt:notice] [pid 9268:tid 576] AH00430: Parent: Child process 22356 exited successfully.
+[Sat Aug 15 14:31:27.693851 2020] [ssl:warn] [pid 3056:tid 588] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:31:27.695846 2020] [mpm_winnt:notice] [pid 3056:tid 588] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 14:31:27.695846 2020] [mpm_winnt:notice] [pid 3056:tid 588] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 14:31:27.695846 2020] [core:notice] [pid 3056:tid 588] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 14:31:27.697841 2020] [mpm_winnt:notice] [pid 3056:tid 588] AH00418: Parent: Created child process 21176
+Apache server interrupted...
+020] [ssl:warn] [pid 21176:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 14:31:28.405959 2020] [mpm_winnt:notice] [pid 21176:tid 540] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 14:31:29.026302 2020] [mpm_winnt:notice] [pid 3056:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 14:31:31.031617 2020] [mpm_winnt:notice] [pid 21176:tid 540] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 14:31:31.080485 2020] [mpm_winnt:notice] [pid 3056:tid 588] AH00430: Parent: Child process 21176 exited successfully.
+[Sat Aug 15 15:05:35.831957 2020] [ssl:warn] [pid 17464:tid 556] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 15:05:35.833951 2020] [mpm_winnt:notice] [pid 17464:tid 556] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Aug 15 15:05:35.833951 2020] [mpm_winnt:notice] [pid 17464:tid 556] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Aug 15 15:05:35.833951 2020] [core:notice] [pid 17464:tid 556] AH00094: Command line: 'D:\\Router\\RepoExpr\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d D:/Router/RepoExpr/SoftPkgs/HomeLedeRepoServer'
+[Sat Aug 15 15:05:35.835946 2020] [mpm_winnt:notice] [pid 17464:tid 556] AH00418: Parent: Created child process 15560
+Apache server interrupted...
+020] [ssl:warn] [pid 15560:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Aug 15 15:05:36.500204 2020] [mpm_winnt:notice] [pid 15560:tid 524] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 15 15:08:41.788927 2020] [mpm_winnt:notice] [pid 17464:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 15:08:43.793638 2020] [mpm_winnt:notice] [pid 15560:tid 524] AH00364: Child: All worker threads have exited.
+[Sat Aug 15 15:08:43.847492 2020] [mpm_winnt:notice] [pid 17464:tid 556] AH00430: Parent: Child process 15560 exited successfully.
+[Tue Dec 01 22:36:21.243610 2020] [ssl:warn] [pid 18592:tid 612] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 01 22:36:21.246493 2020] [mpm_winnt:notice] [pid 18592:tid 612] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Tue Dec 01 22:36:21.246493 2020] [mpm_winnt:notice] [pid 18592:tid 612] AH00456: Server built: Aug  1 2020 13:08:46
+[Tue Dec 01 22:36:21.246493 2020] [core:notice] [pid 18592:tid 612] AH00094: Command line: 'F:\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d F:/SoftPkgs/HomeLedeRepoServer'
+[Tue Dec 01 22:36:21.248488 2020] [mpm_winnt:notice] [pid 18592:tid 612] AH00418: Parent: Created child process 18404
+Apache server interrupted...
+020] [ssl:warn] [pid 18404:tid 376] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 01 22:36:22.294714 2020] [mpm_winnt:notice] [pid 18404:tid 376] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 01 22:38:57.083774 2020] [mpm_winnt:notice] [pid 18592:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 22:38:59.084448 2020] [mpm_winnt:notice] [pid 18404:tid 376] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 22:38:59.103398 2020] [mpm_winnt:notice] [pid 18592:tid 612] AH00430: Parent: Child process 18404 exited successfully.
+[Tue Dec 01 22:39:16.046574 2020] [ssl:warn] [pid 13904:tid 584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 01 22:39:16.049566 2020] [mpm_winnt:notice] [pid 13904:tid 584] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Tue Dec 01 22:39:16.049566 2020] [mpm_winnt:notice] [pid 13904:tid 584] AH00456: Server built: Aug  1 2020 13:08:46
+[Tue Dec 01 22:39:16.049566 2020] [core:notice] [pid 13904:tid 584] AH00094: Command line: 'F:\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d F:/SoftPkgs/HomeLedeRepoServer'
+[Tue Dec 01 22:39:16.051561 2020] [mpm_winnt:notice] [pid 13904:tid 584] AH00418: Parent: Created child process 23372
+Apache server shutdown initiated...
+sl:warn] [pid 23372:tid 616] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 01 22:39:17.075853 2020] [mpm_winnt:notice] [pid 23372:tid 616] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 01 22:44:16.958870 2020] [mpm_winnt:notice] [pid 13904:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 22:44:18.963537 2020] [mpm_winnt:notice] [pid 23372:tid 616] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 22:44:18.987473 2020] [mpm_winnt:notice] [pid 13904:tid 584] AH00430: Parent: Child process 23372 exited successfully.
+[Tue Dec 01 22:44:21.623483 2020] [ssl:warn] [pid 20736:tid 600] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 01 22:44:21.625478 2020] [mpm_winnt:notice] [pid 20736:tid 600] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Tue Dec 01 22:44:21.625478 2020] [mpm_winnt:notice] [pid 20736:tid 600] AH00456: Server built: Aug  1 2020 13:08:46
+[Tue Dec 01 22:44:21.625478 2020] [core:notice] [pid 20736:tid 600] AH00094: Command line: 'F:\\SoftPkgs\\HomeLedeRepoServer\\bin\\httpd.exe -d F:/SoftPkgs/HomeLedeRepoServer'
+[Tue Dec 01 22:44:21.628470 2020] [mpm_winnt:notice] [pid 20736:tid 600] AH00418: Parent: Created child process 11384
+Apache server interrupted...
+020] [ssl:warn] [pid 11384:tid 648] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 01 22:44:22.698672 2020] [mpm_winnt:notice] [pid 11384:tid 648] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 01 22:45:03.353031 2020] [mpm_winnt:notice] [pid 20736:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 22:45:05.355676 2020] [mpm_winnt:notice] [pid 11384:tid 648] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 22:45:05.379626 2020] [mpm_winnt:notice] [pid 20736:tid 600] AH00430: Parent: Child process 11384 exited successfully.
+[Wed May 04 13:02:35.762227 2022] [ssl:warn] [pid 2200:tid 572] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed May 04 13:02:35.774376 2022] [mpm_winnt:notice] [pid 2200:tid 572] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Wed May 04 13:02:35.774376 2022] [mpm_winnt:notice] [pid 2200:tid 572] AH00456: Server built: Aug  1 2020 13:08:46
+[Wed May 04 13:02:35.774376 2022] [core:notice] [pid 2200:tid 572] AH00094: Command line: 'F:\\HomeLede20220503\\HomeLedeRepoServer\\bin\\httpd.exe -d F:/HomeLede20220503/HomeLedeRepoServer'
+[Wed May 04 13:02:35.783542 2022] [mpm_winnt:notice] [pid 2200:tid 572] AH00418: Parent: Created child process 5552
+Apache server interrupted...
+022] [ssl:warn] [pid 5552:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed May 04 13:02:36.139372 2022] [mpm_winnt:notice] [pid 5552:tid 512] AH00354: Child: Starting 64 worker threads.
+[Wed May 04 13:02:44.593793 2022] [mpm_winnt:notice] [pid 2200:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 04 13:02:46.595746 2022] [mpm_winnt:notice] [pid 5552:tid 512] AH00364: Child: All worker threads have exited.
+[Wed May 04 13:02:46.616626 2022] [mpm_winnt:notice] [pid 2200:tid 572] AH00430: Parent: Child process 5552 exited successfully.
+[Sat Oct 22 19:33:28.676463 2022] [ssl:warn] [pid 6800:tid 208] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 22 19:33:28.683463 2022] [mpm_winnt:notice] [pid 6800:tid 208] AH00455: Apache/2.4.46 (Win32) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sat Oct 22 19:33:28.683463 2022] [mpm_winnt:notice] [pid 6800:tid 208] AH00456: Server built: Aug  1 2020 13:08:46
+[Sat Oct 22 19:33:28.683463 2022] [core:notice] [pid 6800:tid 208] AH00094: Command line: 'C:\\Users\\RQ\\Desktop\\Full-AllPackages\\aarch64_cortex-a53\\HomeLedeRepoServer\\bin\\httpd.exe -d C:/Users/RQ/Desktop/Full-AllPackages/aarch64_cortex-a53/HomeLedeRepoServer'
+[Sat Oct 22 19:33:28.689464 2022] [mpm_winnt:notice] [pid 6800:tid 208] AH00418: Parent: Created child process 8072
+Apache server shutdown initiated...
+sl:warn] [pid 8072:tid 204] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 22 19:33:30.722580 2022] [mpm_winnt:notice] [pid 8072:tid 204] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 22 19:35:55.903884 2022] [mpm_winnt:notice] [pid 6800:tid 208] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 22 19:36:27.891713 2022] [mpm_winnt:notice] [pid 8072:tid 204] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Sat Oct 22 19:36:42.995577 2022] [mpm_winnt:notice] [pid 8072:tid 204] AH00364: Child: All worker threads have exited.

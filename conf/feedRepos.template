@@ -1,0 +1,8 @@
+src/gz homelede_core http://####SERVER_IP####:####SERVER_PORT####/homelede/core
+src/gz homelede_base http://####SERVER_IP####:####SERVER_PORT####/homelede/base
+src/gz homelede_luci http://####SERVER_IP####:####SERVER_PORT####/homelede/luci
+src/gz homelede_packages http://####SERVER_IP####:####SERVER_PORT####/homelede/packages
+src/gz homelede_routing http://####SERVER_IP####:####SERVER_PORT####/homelede/routing
+src/gz homelede_telephony http://####SERVER_IP####:####SERVER_PORT####/homelede/telephony
+
+src/gz openwrt_core https://mirrors.cloud.tencent.com/lede/snapshots/targets/armvirt/64/packages
